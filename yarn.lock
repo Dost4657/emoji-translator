@@ -1080,6 +1080,11 @@
     exec-sh "^0.3.2"
     minimist "^1.2.0"
 
+"@expo-google-fonts/comic-neue@^0.2.2":
+  version "0.2.2"
+  resolved "https://registry.yarnpkg.com/@expo-google-fonts/comic-neue/-/comic-neue-0.2.2.tgz#f97f65636a25c4eebc60e6fe134171012e05768b"
+  integrity sha512-zBSB0xnu+zFEncUCo600DTiw7kpNpRhcZz7cp+U3HqFD2dqahDh6L2TIydee2Rqo30PSjE64EjuFwAzoUTHVGg==
+
 "@expo-google-fonts/montserrat@^0.2.2":
   version "0.2.2"
   resolved "https://registry.yarnpkg.com/@expo-google-fonts/montserrat/-/montserrat-0.2.2.tgz#1c2522b6fcacf7a3b561db2f3fd7a90a52613db1"
